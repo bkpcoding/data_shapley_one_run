@@ -1,0 +1,15 @@
+# logging 
+wandb/
+runs/
+
+# data
+data/
+
+# images
+*.png
+
+# models
+*.pt
+
+# pycache
+__pycache__/
